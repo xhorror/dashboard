@@ -49,6 +49,10 @@ To start the bot, in the command prompt, run the following command:
 
 To add the bot to your guild, you have to get an oauth link for it. 
 
+رابط الفيديو الخاص بنا  :
+
+لسه مخلصنهاش :/ 
+
 رابط سيرفرنا 
 
 https://discord.gg/wm3qNqZ 
