@@ -1,4 +1,12 @@
+# لوحه تحكم مصممه وتم التعديل عليها من قبال فريق  
+
+
+# Toxic codes
+
+
+
 # Toxic Bot
+
 An example of a Discord.js Bot Handler. Updated and Maintained by the Idiot's Guide Community.
 
 Ages ago, Guide Bot was actually a little bot I had on the official discord.js server.
@@ -23,7 +31,7 @@ for more info.
 
 In a command prompt in your projects folder (wherever that may be) run the following:
 
-`git clone https://github.com/Gaber-sayed/toxic.git`
+`git clone https://github.com/Toxic-Codes/Toxic-Codes-Dashboard`
 
 Once finished: 
 
@@ -34,9 +42,14 @@ Once finished:
 ## Starting the bot
 
 To start the bot, in the command prompt, run the following command:
+
 `node index.js`
 
 ## Inviting to a guild
 
 To add the bot to your guild, you have to get an oauth link for it. 
+
+رابط سيرفرنا 
+
+https://discord.gg/wm3qNqZ 
 
