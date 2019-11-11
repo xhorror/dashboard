@@ -53,7 +53,7 @@ To add the bot to your guild, you have to get an oauth link for it.
 
 لسه مخلصنهاش :/ 
 
-رابط سيرفرنا 
+رابط 
 
-https://discord.gg/wm3qNqZ 
+https://discord.gg/nzsfQxc
 
